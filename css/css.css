@@ -1,0 +1,38 @@
+.header_logo{
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 800;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.main-page-button {
+    text-decoration: none;
+    color: white;
+}
+
+#answers {
+    background: #000;
+    padding: 40px;
+}
+
+#answers > input {
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+
+label {
+    width: 500px;
+}
+.changeTheme {
+    background-color: red;
+}
+
+.input-div {
+    display: flex;
+    margin-bottom: 40px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
